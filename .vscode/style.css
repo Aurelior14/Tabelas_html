@@ -1,0 +1,109 @@
+/*tabela 1*/
+
+.tabela {
+    border-collapse: collapse;
+    width: 600px;
+}
+
+.tabela, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    text-align: center;
+    padding: 7px;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+.centro {
+    text-align: center;
+}
+
+
+
+/*tabela 2*/
+
+.tabela2 {
+    border-collapse: collapse;
+    width: 600px;
+}
+
+.tabela, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    text-align: center;
+    padding: 7px;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+.centro {
+    text-align: center;
+    width: 600px;
+}
+
+/*Tabela 3*/
+.tabela3 {
+    border-collapse: collapse;
+    width: 600px;
+}
+
+.tabela, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    text-align: center;
+    padding: 7px;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+.centro {
+    text-align: center;
+    width: 600px;
+}
+
+.d {
+    text-align: right;
+}
+
+
+
+.tabela4 {
+    border-collapse: collapse;
+    width: 600px;
+    padding: 600px;
+}
+
+.tabela4 {
+    width: 600px;
+    height: 600px;
+}
+
+.menu {
+width: 150px;
+}
+
+.topo {
+    height: 75px;
+}
+
+.rodape {
+    height: 45px;
+}
+
+.EXERCICIO3 {
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+}
